@@ -1,0 +1,41 @@
+_repo: Wilhelm-Meister-s-Apprenticeship-and-Travels-Vol.-I--of-2-_36483
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Carlyle, Thomas
+    alias: Carlyle, T. (Thomas)
+    birthdate: 1795
+    deathdate: 1881
+    gutenberg_agent_id: '523'
+    url: http://www.gutenberg.org/2009/agents/523
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '2011-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Self-realization -- Fiction'
+title: Wilhelm Meister's Apprenticeship and Travels, Vol. I (of 2)
+url: http://www.gutenberg.org/ebooks/36483
